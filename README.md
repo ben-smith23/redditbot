@@ -9,7 +9,7 @@ My bot is supporting Arizona Senator Mark Kelly.  I am not from Arizona, but I l
 
 [Link to thread](https://www.reddit.com/r/cs40_2022fall/comments/z5uhy3/florida_leaders_rejected_major_climate_laws_now/ixy44iv/?context=3)
 
-![Screenshot](C:\Users\Ben\OneDrive\Pictures\Screenshots\Screenshot (1).png
+![Screenshot](C:\Users\Ben\OneDrive\Desktop\CS40\Projects\redditbot\Screenshot (1).png)
 
 ## bot_counter.py output
 ```
