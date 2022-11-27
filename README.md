@@ -7,11 +7,15 @@ My bot is supporting Arizona Senator Mark Kelly.  I am not from Arizona, but I l
 
 ## Favorite thread with bot
 
-[Link to thread](https://www.reddit.com/r/cs40_2022fall/comments/z5uhy3/comment/ixy4dwg/?utm_source=share&utm_medium=web2x&context=3)
-
 I used Markovify to respond to comments. I enjoy reading what it puts out because I trained it on a book called <i>A Better Politics</i> by Danny Dorling, <i>A Better Politics</i> by Danny Dorling, John Locke's <i>Two Treatises of Government</i>, and an essay I wrote for a Constitutional Law I took last year. The outputs usually do not make much sense, but are written in a very pretentious way, so it reminds me of people on the internet with an intellectual superiority complex.
 
+[Link to thread](https://www.reddit.com/r/cs40_2022fall/comments/z5uhy3/comment/ixy4dwg/?utm_source=share&utm_medium=web2x&context=3)
 ![Screenshot](screenshot1.png)
+
+When posting top comments, I stuck with my madlibs because they make bit more sense.
+
+[Link to thread](https://www.reddit.com/r/cs40_2022fall/comments/z5egac/comment/ixvjnnu/?utm_source=share&utm_medium=web2x&context=3)
+![Screenshot](screenshot2.png)
 
 ## bot_counter.py output
 ```
