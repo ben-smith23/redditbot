@@ -25,7 +25,6 @@ for submission in subreddit:
                 print('upvotedsubmission:', submission.title, submissions_upvoted)
     submission.comments.replace_more(limit=None)
 
-'''
     for comment in submission.comments.list():
         text = TextBlob(str(comment.body))
         if downvote_candidate in comment.body.lower() and text.sentiment.polarity>=0.5:
@@ -38,4 +37,3 @@ for submission in subreddit:
                 comments_upvoted += 1
                 print('upvotedcomment:', comment.body, comments_upvoted)
     print('totalvotes=', submissions_downvoted + submissions_upvoted + comments_upvoted + comments_downvoted)
-'''
