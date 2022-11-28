@@ -21,13 +21,14 @@ When posting top comments, I stuck with my madlibs because they make bit more se
 
 ## bot_counter.py output
 ```
-len(comments)= 947
-len(top_level_comments)= 129
-len(replies)= 818
-len(not_self_replies)= 785
-len(valid_replies)= 785
+len(comments)= 1000
+len(top_level_comments)= 135
+len(replies)= 865
+len(valid_top_level_comments)= 135
+len(not_self_replies)= 831
+len(valid_replies)= 831
 ========================================
-valid_comments= 914
+valid_comments= 966
 ========================================
 ```
 
